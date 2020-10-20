@@ -1,0 +1,8 @@
+---
+name: SelfDamageBlocker
+version: 1.0.0
+main: str0nix\SelfDamageBlocker\Main
+api: 3.15.2
+author: str0nix
+website: https://github.com/str0nixofficial
+...

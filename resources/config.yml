@@ -1,0 +1,12 @@
+# Configuration file of SelfDamageBlocker plugin
+# The plugin created by str0nix
+# Support: https://github.com/str0nixofficial
+# Thanks for using my plugin!
+
+# Here you can set the message that the player receive on self damage
+# You can add colors with the '§' character
+msg: "§cYou can't damage yourself."
+
+# If you want to see the plugin's enabled/loading messages 
+# in the console on the server's start then set the key below to 'true'. If not, keep this on 'false'.
+console_messages: false
